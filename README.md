@@ -67,6 +67,11 @@ Shows how **dropout can be applied in regression models** and its effect on over
 
 ---
 
+### 13. Regularization – L2 (Weight Decay)
+Explains **L2 regularization (Weight Decay)**, how it penalizes large weights, and how it helps reduce overfitting in neural networks.
+
+---
+
 ## 🛠️ Requirements
 
 - Python 3.x
