@@ -5,28 +5,6 @@ Most notebooks emphasize **from-scratch implementations** to strengthen conceptu
 
 ---
 
-## 📁 Repository Structure
-
-Deep-Learning/
-│
-├── data/
-├── 01_Perceptron_Code_Example.ipynb
-├── 02_Perceptron_Training.ipynb
-├── 03_Perceptron_Loss_Function.ipynb
-├── 04_Graduate_Admissions_Deep_Learning.ipynb
-├── 05_MNIST_Deep_Learning.ipynb
-├── 06_BackProp_without_Keras_Lib.ipynb
-├── 07_Memoization_Demo.ipynb
-├── 08_Vanishing_Gradient.ipynb
-├── 09_Early_Stopping.ipynb
-├── 10_Feature_Scaling.ipynb
-├── 11_Dropout_Classification_Example.ipynb
-├── 12_Dropout_Regression.ipynb
-└── README.md
-
-
----
-
 ## 📘 Notebook Descriptions
 
 ### 01. Perceptron Code Example
