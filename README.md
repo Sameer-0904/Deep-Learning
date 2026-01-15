@@ -72,6 +72,19 @@ Explains **L2 regularization (Weight Decay)**, how it penalizes large weights, a
 
 ---
 
+### 14. Zero Initialization Problem – ReLU Activation
+This notebook explains the **zero initialization problem** when using **ReLU activation functions**.  
+It demonstrates how initializing all weights to zero causes neurons to learn identical features, leading to **symmetry problems** and ineffective training.
+
+---
+
+### 15. Zero Initialization Problem – Sigmoid Activation
+This notebook explores the **zero initialization issue with Sigmoid activation**.  
+It highlights how zero initialization leads to **poor gradient flow**, slow learning, and symmetry, making it unsuitable for training deep neural networks.
+
+---
+
+
 ## 🛠️ Requirements
 
 - Python 3.x
