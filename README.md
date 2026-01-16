@@ -84,6 +84,17 @@ It highlights how zero initialization leads to **poor gradient flow**, slow lear
 
 ---
 
+### 16. Xavier and He Weight Initialization
+This notebook explains **Xavier (Glorot) and He initialization techniques**, focusing on how proper weight initialization helps maintain stable variance of activations and gradients across layers, leading to faster convergence and better training of deep neural networks.
+
+---
+
+### 17. Batch Normalization
+This notebook covers **Batch Normalization**, a technique used to normalize layer inputs during training.  
+It demonstrates how batch normalization improves training stability, accelerates convergence, and reduces sensitivity to weight initialization.
+
+---
+
 
 ## 🛠️ Requirements
 
