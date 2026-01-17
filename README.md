@@ -95,6 +95,11 @@ It demonstrates how batch normalization improves training stability, accelerates
 
 ---
 
+### 18. EWMA Optimizer (Exponentially Weighted Moving Average)
+This notebook explains the **EWMA (Exponentially Weighted Moving Average) optimizer**, showing how it smooths gradients by maintaining an exponentially decaying average of past gradients, helping reduce noise, stabilize updates, and improve convergence during neural network training.
+
+---
+
 
 ## 🛠️ Requirements
 
